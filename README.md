@@ -7,7 +7,6 @@
     Encodes categorical input using LabelEncoder
     Real-time prediction with friendly UI
  
-# Live link : https://4b4c63417d72.ngrok-free.app/
 # How to Run :
  ```bash
  python -m streamlit run app.py
